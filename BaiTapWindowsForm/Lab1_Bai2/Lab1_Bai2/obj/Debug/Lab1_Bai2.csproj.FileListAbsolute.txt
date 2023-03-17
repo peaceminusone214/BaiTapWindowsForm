@@ -1,0 +1,13 @@
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.csproj.AssemblyReference.cache
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.frmBai1.resources
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.frmChinh.resources
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.Properties.Resources.resources
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.csproj.GenerateResource.cache
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.csproj.CoreCompileInputs.cache
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\bin\Debug\Lab1_Bai2.exe.config
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\bin\Debug\Lab1_Bai2.exe
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\bin\Debug\Lab1_Bai2.pdb
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.exe
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.pdb
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.frmBai2.resources
+E:\Learning\HK4\Phát triển ứng dụng Desktop\BaiTapWindowsForm\Lab1_Bai2\Lab1_Bai2\obj\Debug\Lab1_Bai2.frmBai3.resources
